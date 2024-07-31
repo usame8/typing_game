@@ -23,7 +23,7 @@ Typing Game is an interactive web application designed to improve typing speed a
 
 1. Clone the repository:
     bash
-    git clone https://github.com/yourusername/typing-game.git
+    git clone https://github.com/usame8/typing-game.git
     
 2. Navigate to the project directory:
     bash
